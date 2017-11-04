@@ -4,7 +4,9 @@
   "description": "Extract grid functionality outside from the components like in css grid layout",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel examples --out-dir dist/examples",
+    "start": "babel --watch examples/mdn-basic/manual-grid.jsx --out-file examples/mdn-basic/manual-grid.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/idanilt/react-grid-hoc/issues"
   },
-  "homepage": "https://github.com/idanilt/react-grid-hoc#readme"
+  "homepage": "https://github.com/idanilt/react-grid-hoc#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1"
+  }
 }
