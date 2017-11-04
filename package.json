@@ -1,0 +1,27 @@
+{
+  "name": "react-grid-hoc",
+  "version": "0.0.1",
+  "description": "Extract grid functionality outside from the components like in css grid layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idanilt/react-grid-hoc.git"
+  },
+  "keywords": [
+    "react",
+    "grid",
+    "css-grid",
+    "layout",
+    "css-grid-layout",
+    "grid-system"
+  ],
+  "author": "IdanILT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idanilt/react-grid-hoc/issues"
+  },
+  "homepage": "https://github.com/idanilt/react-grid-hoc#readme"
+}
