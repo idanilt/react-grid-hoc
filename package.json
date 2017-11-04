@@ -1,6 +1,6 @@
 {
   "name": "react-grid-hoc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extract grid functionality outside from the components like in css grid layout",
   "main": "index.js",
   "scripts": {
