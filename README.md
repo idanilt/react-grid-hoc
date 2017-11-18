@@ -11,10 +11,11 @@ Please comment on [this issue](https://github.com/idanilt/react-grid-hoc/issues/
 # Roadmap
 * 0.0.1 - initialize the project with the motivation in mind
 * 0.0.2 - Collect feedback, useful or not, better alternatives and does it the right direction?
-* 0.0.3 - POC
-* 0.0.4 - alpha - basic grid;
-* 0.0.5 - beta - toolchain: tests, benchmark, build (es, AMD, TS, CommonJS), start (dev mode); support browsers; alternative for react (preact, Inferno); React native;
-* 0.0.6 - first stable release
+* 0.0.3 - Add giter
+* 0.0.4 - POC
+* 0.0.5 - alpha - basic grid;
+* 0.0.6 - beta - toolchain: tests, benchmark, build (es, AMD, TS, CommonJS), start (dev mode); support browsers; alternative for react (preact, Inferno); React native;
+* 0.1.0 - first stable release
 # Browser goal:
 IE9+, edge 13-15? Opera Mini, Opera Mobile, UC Browser for Android
 
