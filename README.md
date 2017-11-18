@@ -6,12 +6,12 @@ Extract grid functionality outside from the components like in css grid layout
 # Please give feedback
 Useful or not? Better alternatives? Does it the right direction?
 
-Please comment on [this issue](https://github.com/idanilt/react-grid-hoc/issues/1) or just send message on [giter](https://gitter.im/react-grid-hoc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Please comment on [this issue](https://github.com/idanilt/react-grid-hoc/issues/1) or just send message on [gitter](https://gitter.im/react-grid-hoc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Roadmap
 * 0.0.1 - initialize the project with the motivation in mind
 * 0.0.2 - Collect feedback, useful or not, better alternatives and does it the right direction?
-* 0.0.3 - Add giter
+* 0.0.3 - Add gitter
 * 0.0.4 - POC
 * 0.0.5 - alpha - basic grid;
 * 0.0.6 - beta - toolchain: tests, benchmark, build (es, AMD, TS, CommonJS), start (dev mode); support browsers; alternative for react (preact, Inferno); React native;
