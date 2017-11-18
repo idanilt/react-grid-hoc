@@ -1,6 +1,8 @@
 [![Join the chat at https://gitter.im/react-grid-hoc/Lobby](https://badges.gitter.im/react-grid-hoc/Lobby.svg)](https://gitter.im/react-grid-hoc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # react-grid-hoc
+
+[![Join the chat at https://gitter.im/react-grid-hoc/Lobby](https://badges.gitter.im/react-grid-hoc/Lobby.svg)](https://gitter.im/react-grid-hoc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Extract grid functionality outside from the components like in css grid layout
 
 # Please give feedback
