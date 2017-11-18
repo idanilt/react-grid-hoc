@@ -1,14 +1,18 @@
+[![Join the chat at https://gitter.im/react-grid-hoc/Lobby](https://badges.gitter.im/react-grid-hoc/Lobby.svg)](https://gitter.im/react-grid-hoc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # react-grid-hoc
 Extract grid functionality outside from the components like in css grid layout
 
 # Please give feedback
-[Useful or not? Better alternatives? Does it the right direction?](https://github.com/idanilt/react-grid-hoc/issues/1)
+Useful or not? Better alternatives? Does it the right direction?
+
+Please comment on [this issue](https://github.com/idanilt/react-grid-hoc/issues/1) or just send message on [giter](https://gitter.im/react-grid-hoc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Roadmap
 * 0.0.1 - initialize the project with the motivation in mind
 * 0.0.2 - Collect feedback, useful or not, better alternatives and does it the right direction?
 * 0.0.3 - POC
-* 0.0.4 - alpha - detect css grid disable; basic grid support;
+* 0.0.4 - alpha - basic grid;
 * 0.0.5 - beta - toolchain: tests, benchmark, build (es, AMD, TS, CommonJS), start (dev mode); support browsers; alternative for react (preact, Inferno); React native;
 * 0.0.6 - first stable release
 # Browser goal:
@@ -43,11 +47,11 @@ Now, let's add some grid
 </Login>
 ```
 
-It's got very ugly very fest, it's doesn’t matter if it's flexbox, bootstrap or any other grid it will look like that.
-Flexbox can be good if you using only on dimension on your components 
+It's got very ugly very fast, it's doesn't matter if it's flexbox, bootstrap or any other grid it will look like that.
+Flexbox can be good if you using only one dimension on your components 
 But as soon as you have both horizontal and vertical elements you will have to again start use some extra components...
 
-Css-grid-layout, exally solve this problem perfectly:
+Css-grid-layout, exactly solve this problem perfectly:
 ```javascript
 <Login>
       <User>
